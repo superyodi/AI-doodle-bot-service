@@ -36,21 +36,6 @@
 
 
 
-## 실행 결과
-
-![KakaoTalk_Photo_2020-09-06-19-55-32](https://user-images.githubusercontent.com/31922389/92324309-7f8fde00-f07b-11ea-86bf-d1af2fa7f457.jpeg)
-![논문발표 대본](https://user-images.githubusercontent.com/31922389/92324310-81f23800-f07b-11ea-91de-cf65ef6e7236.jpeg)
-![KakaoTalk_Photo_2020-09-06-19-53-48](https://user-images.githubusercontent.com/31922389/92324312-83bbfb80-f07b-11ea-8965-d01fc6425367.jpeg)
-![KakaoTalk_Photo_2020-09-06-19-55-40](https://user-images.githubusercontent.com/31922389/92324313-86b6ec00-f07b-11ea-92d8-016fe04d8763.jpeg)
-![KakaoTalk_Photo_2020-09-06-19-55-19](https://user-images.githubusercontent.com/31922389/92324314-87e81900-f07b-11ea-83e5-a861fa852d29.jpeg)
-![KakaoTalk_Photo_2020-09-06-19-56-30](https://user-images.githubusercontent.com/31922389/92324316-8a4a7300-f07b-11ea-9620-740606adb464.jpeg)
-<img src="https://user-images.githubusercontent.com/31922389/92324309-7f8fde00-f07b-11ea-86bf-d1af2fa7f457.jpeg"  width="360" height="760">
-
-
-
-
-
-
 ### 시연 영상:   https://drive.google.com/file/d/1H_ZVj_he8SibY1pmsBptug4F9x9j2zk8/view?usp=sharing
 
 
