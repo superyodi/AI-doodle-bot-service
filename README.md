@@ -3,6 +3,11 @@
 ## 소개 
 
  Doodle App으로 사진을 찍으면 사진을 낙서로 변환해서 로봇팔이 그려줘요
+ 
+> Doodle Android App에 관한 코드는[superyodi](https://github.com/superyodi)/**[doodle-drawing-app](https://github.com/superyodi/doodle-drawing-app)** , 
+>
+> Flask 서버 및 Doodle Bot에 관한 코드는 [superyodi](https://github.com/superyodi)/**[doodle-drawing-bot](https://github.com/superyodi/doodle-drawing-bot)** 에서 확인하실 수 있습니다. 
+
 
  
 
