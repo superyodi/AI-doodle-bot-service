@@ -7,9 +7,8 @@
 
 ### 📺 Demo Video
 
-[인공지능 낙서 로봇 서비스 (ver2)](https://youtu.be/WRzmHwNDsy8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WRzmHwNDsy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-[https://youtu.be/WRzmHwNDsy8](https://youtu.be/WRzmHwNDsy8)
 
 ### 🤸‍♀️ Progress Period
 
@@ -17,7 +16,7 @@
 
 ### 📔 Content
 
-Doodle Bot will draw your photo
+Doodle Bot will draw your photo  
 
 Doodle App으로 사진을 찍고 낙서를 선택하면 로봇이 낙서를 그려줍니다🙊
 
@@ -51,6 +50,6 @@ Doodle App으로 사진을 찍고 낙서를 선택하면 로봇이 낙서를 그
 
 ### 📄 Related Paper
 
-해당 프로젝트 내용을 바탕으로 논문을 작성하였습니다. 
+해당 프로젝트 내용을 바탕으로 논문을 작성하였습니다.   
 [[KCI 등재]두들 로봇 서비스의 설계 및 구현](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002663743)
 
