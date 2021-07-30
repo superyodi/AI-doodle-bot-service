@@ -1,6 +1,7 @@
 # 인공지능 낙서 로봇 서비스
 
 > Doodle Bot will draw your photo
+> Doodle App으로 사진을 찍고 낙서를 선택하면 로봇이 낙서를 그려줍니다🙊
 
 
 
@@ -8,8 +9,6 @@
 ### 📺 Demo Video
 
 [![Video Label](https://img.youtube.com/vi/WRzmHwNDsy8/0.jpg)](https://youtu.be/WRzmHwNDsy8)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WRzmHwNDsy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 
 ### 🤸‍♀️ Progress Period
