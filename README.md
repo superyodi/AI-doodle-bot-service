@@ -1,50 +1,56 @@
-# Doodle-Bot-Servicet  - 낙서로봇
+# 인공지능 낙서 로봇 서비스
 
-## 소개 
-
- Doodle App으로 사진을 찍으면 사진을 낙서로 변환해서 로봇팔이 그려줘요
- 
-> Doodle Android App에 관한 코드는[superyodi](https://github.com/superyodi)/**[doodle-drawing-app](https://github.com/superyodi/doodle-drawing-app)** , 
->
-> Flask 서버 및 Doodle Bot에 관한 코드는 [superyodi](https://github.com/superyodi)/**[doodle-drawing-bot](https://github.com/superyodi/doodle-drawing-bot)** 에서 확인하실 수 있습니다. 
-
-
- 
-
-## 개발환경
-
-+ Android Studio '3.6.2' (minSdkVersion 16)
-+ Kotlin '1.3.72'
-+ Python '3.7.6'
-+ Flask '1.1.1'
-+ DobotStudio
-
-
-
-## 사용법 
-
-
-
-### 1. DoodleBot App
-
-+ 안드로이드 어플리케이션인 DoodleBot을 실행합니다
-+ 카메라로 사물의 사진을 찍습니다
-+ 사물의 객체 검출이 성공적으로 되었다면 '예' 버튼을 누릅니다
-+ 원하는 낙서그림이 나올때까지 'SKIP' 버튼을 누르고  'CHOICE' 버튼을 눌러 낙서 선택을 완료합니다. 
-
-
-
-### 2. Dobot Studio
-
-+ 서버를 실행시키는 컴퓨터에서 Dobot Studio를 열고 Script 버튼을 눌러 `draw_dobot.py` 파일을 실행합니다
-+ Doodle Bot이 낙서를 그리기 시작합니다. 
-
-
-
-### 시연 영상:   https://drive.google.com/file/d/1H_ZVj_he8SibY1pmsBptug4F9x9j2zk8/view?usp=sharing
+> Doodle Bot will draw your photo
 
 
 
 
+### 📺 Demo Video
 
+[인공지능 낙서 로봇 서비스 (ver2)](https://youtu.be/WRzmHwNDsy8)
+
+[https://youtu.be/WRzmHwNDsy8](https://youtu.be/WRzmHwNDsy8)
+
+### 🤸‍♀️ Progress Period
+
+2020/03 - 2020/09
+
+### 📔 Content
+
+Doodle Bot will draw your photo
+
+Doodle App으로 사진을 찍고 낙서를 선택하면 로봇이 낙서를 그려줍니다🙊
+
+### 😀 Language
+
+- Kotlin
+- Python3
+
+### 📚 Stack
+
+- **Server Side**
+  - Flask
+  - OpenCV
+  - YOLO (version 3)
+
+- **Client Side**
+  - Android
+  - Retrofit2
+  - Dobot Magician
+
+### 🐱 GitHub
+
+**Server side**
+
+[superyodi/doodle-drawing-bot](https://github.com/superyodi/doodle-drawing-bot)
+
+**Client Side**
+
+[superyodi/doodle-drawing-app](https://github.com/superyodi/doodle-drawing-app)
+
+
+### 📄 Related Paper
+
+해당 프로젝트 내용을 바탕으로 논문을 작성하였습니다. 
+[[KCI 등재]두들 로봇 서비스의 설계 및 구현](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002663743)
 
