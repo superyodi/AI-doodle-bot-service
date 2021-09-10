@@ -33,9 +33,8 @@
 
 ### 😀 Language
 
-- Kotlin
-- Python3
-
+- Kotlin (Android)
+- Python3 (Flask Server and Code for manipulating Dobot Magician)
 ### 📚 Stack
 
 - **Server Side**
@@ -45,8 +44,8 @@
 
 - **Client Side**
   - Android
-  - Retrofit2
-  - Dobot Magician
+    + Retrofit2
+  - Dobot Magician (Robot Arm)
 
 ### 🐱 Source Code
 
